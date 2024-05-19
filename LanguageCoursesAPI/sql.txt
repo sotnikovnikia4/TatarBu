@@ -1,0 +1,35 @@
+CREATE TABLE IF NOT EXISTS courses (
+                                       id UUID PRIMARY KEY,
+                                       title TEXT NOT NULL,
+                                       min_age INT NOT NULL,
+                                       max_age INT NOT NULL,
+                                       teacher_id UUID
+);
+
+CREATE TABLE IF NOT EXISTS lessons (
+                                       id UUID PRIMARY KEY,
+                                       course_id UUID NOT NULL REFERENCES courses(id) ON DELETE CASCADE,
+                                       description text
+);
+
+CREATE TABLE IF NOT EXISTS levels (
+                                      id UUID PRIMARY KEY,
+                                      lesson_id UUID NOT NULL REFERENCES lessons(id) ON DELETE CASCADE,
+                                      level_type INT NOT NULL,
+                                      task TEXT NOT NULL,
+                                      correct_answer text,
+                                      points INT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS course_classrooms (
+                                                 id UUID REFERENCES courses(id) ON DELETE CASCADE,
+                                                 classroom_id INT4,
+                                                 PRIMARY KEY (id, classroom_id)
+);
+
+CREATE TABLE IF NOT EXISTS student_progress (
+                                                level_id UUID REFERENCES levels(id) ON DELETE CASCADE,
+                                                student_id UUID,
+                                                completed BOOLEAN,
+                                                PRIMARY KEY (level_id, student_id)
+);
