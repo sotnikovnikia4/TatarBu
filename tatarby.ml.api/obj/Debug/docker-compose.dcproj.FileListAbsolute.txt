@@ -1,0 +1,15 @@
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\tatarby.ml.api.deps.json
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\tatarby.ml.api.runtimeconfig.json
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\appsettings.Development.json
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\appsettings.json
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\tatarby.ml.api.exe
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\tatarby.ml.api.dll
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\bin\Debug\tatarby.ml.api.pdb
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api\obj\Debug\docker-c.35A3FFBA.Up2Date

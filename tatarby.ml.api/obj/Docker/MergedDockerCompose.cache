@@ -1,0 +1,19 @@
+name: dockercompose4198659561824300716
+services:
+  tatarby.ml.api:
+    build:
+      context: C:\Users\ratmir\source\repos\TatarBy\tatarby.ml.api
+      dockerfile: tatarby.ml.api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: tatarbymlapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose4198659561824300716_default

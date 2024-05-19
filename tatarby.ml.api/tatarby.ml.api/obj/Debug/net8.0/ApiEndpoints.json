@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "tatarby.ml.api.Controllers.VoiceController",
+    "Method": "CheckVoice",
+    "RelativePath": "voice/CheckVoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "tatarby.ml.api.Controllers.CheckVoiceInputDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "tatarby.ml.api.Controllers.CheckVoiceOutputDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

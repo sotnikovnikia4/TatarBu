@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CD51D-651E-46F2-9C9B-886389659104}|tatarby.ml.api\\tatarby.ml.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.ml.api\\controllers\\voicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CD51D-651E-46F2-9C9B-886389659104}|tatarby.ml.api\\tatarby.ml.api.csproj|solutionrelative:tatarby.ml.api\\controllers\\voicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.simulators.api\\controllers\\wordsimulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|solutionrelative:tatarby.simulators.api\\controllers\\wordsimulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302EE4BF-4216-4E08-B4E2-D64B4C27EF1E}|docker-compose.dcproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{302EE4BF-4216-4E08-B4E2-D64B4C27EF1E}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CD51D-651E-46F2-9C9B-886389659104}|tatarby.ml.api\\tatarby.ml.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.ml.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CD51D-651E-46F2-9C9B-886389659104}|tatarby.ml.api\\tatarby.ml.api.csproj|solutionrelative:tatarby.ml.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.simulators.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|solutionrelative:tatarby.simulators.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CD51D-651E-46F2-9C9B-886389659104}|tatarby.ml.api\\tatarby.ml.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.ml.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E48CD51D-651E-46F2-9C9B-886389659104}|tatarby.ml.api\\tatarby.ml.api.csproj|solutionrelative:tatarby.ml.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.simulators.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|solutionrelative:tatarby.simulators.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|c:\\users\\ratmir\\source\\repos\\tatarby\\tatarby.ml.api\\tatarby.simulators.api\\controllers\\voicesimulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC27EAC-56EF-458A-812D-4230C9FD4C0A}|tatarby.simulators.api\\tatarby.simulators.api.csproj|solutionrelative:tatarby.simulators.api\\controllers\\voicesimulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1151,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-18T21:29:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Dockerfile",
+              "RelativeDocumentMoniker": "tatarby.simulators.api\\Dockerfile",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Dockerfile",
+              "RelativeToolTip": "tatarby.simulators.api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-18T21:28:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.ml.api\\Dockerfile",
+              "RelativeDocumentMoniker": "tatarby.ml.api\\Dockerfile",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.ml.api\\Dockerfile",
+              "RelativeToolTip": "tatarby.ml.api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-18T17:28:59.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Program.cs",
+              "RelativeDocumentMoniker": "tatarby.simulators.api\\Program.cs",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Program.cs",
+              "RelativeToolTip": "tatarby.simulators.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:25:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordSimulatorController.cs",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Controllers\\WordSimulatorController.cs",
+              "RelativeDocumentMoniker": "tatarby.simulators.api\\Controllers\\WordSimulatorController.cs",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Controllers\\WordSimulatorController.cs",
+              "RelativeToolTip": "tatarby.simulators.api\\Controllers\\WordSimulatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:25:16.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoiceSimulatorController.cs",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Controllers\\VoiceSimulatorController.cs",
+              "RelativeDocumentMoniker": "tatarby.simulators.api\\Controllers\\VoiceSimulatorController.cs",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.simulators.api\\Controllers\\VoiceSimulatorController.cs",
+              "RelativeToolTip": "tatarby.simulators.api\\Controllers\\VoiceSimulatorController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAABBwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:24:38.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAIwI4BAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-18T19:14:49.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.ml.api\\Program.cs",
+              "RelativeDocumentMoniker": "tatarby.ml.api\\Program.cs",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.ml.api\\Program.cs",
+              "RelativeToolTip": "tatarby.ml.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:29:42.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.ml.api\\Controllers\\VoiceController.cs",
+              "RelativeDocumentMoniker": "tatarby.ml.api\\Controllers\\VoiceController.cs",
+              "ToolTip": "C:\\Users\\ratmir\\source\\repos\\TatarBy\\tatarby.ml.api\\tatarby.ml.api\\Controllers\\VoiceController.cs",
+              "RelativeToolTip": "tatarby.ml.api\\Controllers\\VoiceController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:15:42.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

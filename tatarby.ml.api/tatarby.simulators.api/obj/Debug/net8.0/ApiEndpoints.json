@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "tatarby.simulators.api.Controllers.VoiceSimulatorController",
+    "Method": "CheckVoice",
+    "RelativePath": "voicesim/CheckVoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "tatarby.simulators.api.Controllers.VoiceInputDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "tatarby.simulators.api.Controllers.VoiceOutputDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
